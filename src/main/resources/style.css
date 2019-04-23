@@ -1,0 +1,22 @@
+.root {
+    -fx-background-color: #d2eeee;
+    -fx-font-size: 15px;
+    -fx-font-weight: bold;
+}
+
+
+.button{
+    -fx-background-color: #e7005d;
+    -fx-background-size: 20;
+    -fx-text-fill: white;
+    -fx-alignment: CENTER;
+    -fx-background-radius: 20;
+}
+
+.button:hover{
+    -fx-background-color: #0ca1b4;
+}
+
+.button:pressed{
+    -fx-background-color: #007ccc;
+}
